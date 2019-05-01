@@ -19,8 +19,8 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
     
 **Abstract**: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
   
-**Speaker Bio**: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.
-</details>
+**Speaker Bio**: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.</details>
+
 
 10:00-10:30 Tea break
 
@@ -29,11 +29,10 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
  
 **Abstract**: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
   
-**Speaker Bio**: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.
-</details>
+**Speaker Bio**: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.</details>
+
 
 12h00-13h00 Lunch break
-
 13h-14h40 Session 1
 
 <details>
@@ -66,12 +65,11 @@ Previously, I received my BS degree from Hunan University in 2005, and my MS deg
 
 **Speaker Bio**: James Webster works as a Research Engineer for the Applied Research Laboratory at Penn State, developing new applications for recent innovations in software technology. He has experience with process optimization, software development, system integration and automation. James has experience applying distributed computer systems, including blockchain systems like Hyperledger to solve logistics challenges. James obtained his B.S. in Industrial Engineering from Cal Poly San Luis Obispo in 2006.
 
-Michael Steward is currently a M.S student in Computer Science and Engineering department at Penn State University, advised by Dr. Trent Jaeger. Michael also received his Bachelor’s degree in Computer Engineering with a minor in Engineering Leadership Development from Penn State University. Michael has been a student researcher at Penn State’s Applied Research lab for four years and has on worked various enterprise and expeditionary system. His research interests broadly lie in distributed ledger technology, access control, and other system security topics.
-</details>
+Michael Steward is currently a M.S student in Computer Science and Engineering department at Penn State University, advised by Dr. Trent Jaeger. Michael also received his Bachelor’s degree in Computer Engineering with a minor in Engineering Leadership Development from Penn State University. Michael has been a student researcher at Penn State’s Applied Research lab for four years and has on worked various enterprise and expeditionary system. His research interests broadly lie in distributed ledger technology, access control, and other system security topics.</details>
     
-14h40-15h10 Coffee break
 
-15h10-17h15 Session 3
+14h40-15h10 Coffee break
+15h10-17h15 Session 2
 
 <details>
   <summary>Andreas Schaad (University of Applied Sciences Offenburg): Using a secure element as a blockchain oracle</summary>
