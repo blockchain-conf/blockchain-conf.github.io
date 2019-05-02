@@ -149,7 +149,7 @@ ISDA(IEEE), and 10th IAS(IEEE).
 17h30 - Reception
 
 ## Registration ##
-SACMAT conference attendees are welcome to attend the workshop day. For others, the option register for one day is available on the SACMAT [registration page](http://www.sacmat.org/2019/registration.php).
+SACMAT conference attendees are welcome to attend the workshop day. For others, the option to register for one day is available on the SACMAT [registration page](http://www.sacmat.org/2019/registration.php).
 
 ## Structure
 We are soliciting participants to present their work at the workshop. We are looking for (but are not limited to) the following types of talks:
