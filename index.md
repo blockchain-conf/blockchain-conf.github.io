@@ -139,7 +139,7 @@ ISDA(IEEE), and 10th IAS(IEEE).
 <b>Speaker Bio</b>: Wes Fulford is the Chief Executive Officer of Bitfarms, one of North America’s largest vertically-integrated blockchain infrastructure and cryptocurrency mining companies. Wes brings 15 years of investment banking, capital markets and asset management experience to Bitfarms. Wes manages corporate direction and strategy at Bitfarms, facilitating company activities in capital markets, sales, marketing, strategic alliances and business development. Prior to joining Bitfarms, Wes led the financial institutions and fintech investment banking practice for one of Canada’s largest financial institutions, Desjardins Group. 
 </details>
 <details>
-  <summary>Will Zhang (Finetics): TBD</summary>
+  <summary>Will Zhang (Finetics): Blockchain On Cloud for Industrial Usecase</summary>
   
 <b>Abstract</b>: TBD
 <br />
