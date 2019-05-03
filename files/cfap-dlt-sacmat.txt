@@ -31,6 +31,7 @@ application (DApp), using a popular Smart Contract language (Solidity) for
 the blockchain platform of Ethereum. 
 
 The afternoon sessions feature talks from academic and industrial speakers.
+Please consult the workshop webpage for more details.
 
 TOPICS COVERED INCLUDE, BUT ARE NOT LIMITED TO:
 1) Integration of access control technologies with DLTs
