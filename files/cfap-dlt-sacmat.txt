@@ -20,20 +20,17 @@ the talks will range from applications and experiences using DLTs to
 theoretical, technical, and system-oriented topics.
 
 STRUCTURE:
-We are soliciting participants to present their work at the workshop. We are 
-looking for (but are not limited to) the following types of talks:
-1) Presentations of previously published conference or journal articles at 
-   other venues
-2) Presentations on ongoing, unpublished, research (in order to be part of 
-   the SACMAT proceedings, please submit to the main conference -- deadline 
-   February 10 -- and email the workshop chair)
-3) Presentations on the design, implementation, and evaluation of novel use
-   cases for blockchains
-4) Presentations on adoption roadmap, technical and non-technical barriers, 
-   especially in industry
-5) Presentations of vision/blue-sky topics or position papers
-6) Presentations on non-technical aspects related to blockchains (e.g. 
-   cryptocurrency mining, exchanges, etc.)
+The morning sessions will feature a introductory tutorial on blockchain 
+technologies. We first study the original Bitcoin design, as well as Ethereum 
+and Hyperledger, and reflect on their design from an academic perspective. 
+We provide an overview of potential applications and associated research 
+challenges, as well as a survey of ongoing research projects. We mention 
+opportunities blockchain creates for event-based systems. Finally, we 
+conclude with a walkthrough showing the process of developing a decentralized 
+application (DApp), using a popular Smart Contract language (Solidity) for 
+the blockchain platform of Ethereum. 
+
+The afternoon sessions feature talks from academic and industrial speakers.
 
 TOPICS COVERED INCLUDE, BUT ARE NOT LIMITED TO:
 1) Integration of access control technologies with DLTs
@@ -49,6 +46,10 @@ TOPICS COVERED INCLUDE, BUT ARE NOT LIMITED TO:
 8) Layer 2 and off-chain solutions (e.g., State channels, Plasma)
 9) Smart contract languages, modeling, and verification
 10) Theory, cryptoeconomy, and attacks of blockchain systems
+
+REGISTRATION:
+SACMAT conference attendees are welcome to attend the workshop day. For others, 
+the option to register for one day is available on the SACMAT registration page.
 
 WORKSHOP CHAIR:
 Kaiwen Zhang (Ecole de technologie superieure)
