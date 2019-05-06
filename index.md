@@ -141,7 +141,7 @@ ISDA(IEEE), and 10th IAS(IEEE).
 <details>
   <summary>Will Zhang (Finetics): Blockchain On Cloud for Industrial Usecase</summary>
   
-<b>Abstract</b>: TBD
+<b>Abstract</b>: With the rise of blockchain and cloud computing technology, more and more companies begin to adopt and combine both technology fields in the industry. Blockchain creates a transparent, decentralized, immutable distributed system while cloud computing makes operationalize such system much easier. Today we will look at how solutions that combine the best practice for cloud computing and blockchain can provide best value for separate use cases such as real estate, finance, and supply chain management.
 <br />
 <b>Speaker Bio</b>: TBD
 </details><br />
