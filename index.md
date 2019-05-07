@@ -143,7 +143,7 @@ ISDA(IEEE), and 10th IAS(IEEE).
   
 <b>Abstract</b>: With the rise of blockchain and cloud computing technology, more and more companies begin to adopt and combine both technology fields in the industry. Blockchain creates a transparent, decentralized, immutable distributed system while cloud computing makes operationalize such system much easier. Today we will look at how solutions that combine the best practice for cloud computing and blockchain can provide best value for separate use cases such as real estate, finance, and supply chain management.
 <br />
-<b>Speaker Bio</b>: TBD
+<b>Speaker Bio</b>: Will is the founder and solutions architect at Fintelics, an emerging technology consulting company specializing in AI, Blockchain, Cloud, Data Engineering, and Fullstack Omnichannel Software Development. Graduated from the University of Toronto in engineering science, he is the winner of 2019 Canada Developer 30 Under 30, and is currently a Professional AWS Certified Solutions Architect. Will is passionate about consulting and solutioning for all types of businesses. Since he founded Fintelics, he has consulted for enterprises such as the Toronto Stock Exchange, Citco, Thomson Reuters, Liangzi Education Inc. as well as creating Blockchain and Cloud architecture for startups such as Nobul, Graindiscovery, Eye Network, Alfasommet and Just Wallet.
 </details><br />
 
 17h30 - Reception
