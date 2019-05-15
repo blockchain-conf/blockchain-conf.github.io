@@ -14,6 +14,8 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 
 ## Preliminary program ##
 
+8:00-8:30 Breakfast and registration
+
 <details>
   <summary>8:30-10:00 Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 1: Consensus, Bitcoin</summary>
     
