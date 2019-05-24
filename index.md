@@ -68,7 +68,6 @@ Previously, I received my BS degree from Hunan University in 2005, and my MS deg
 <b>Speaker Bio</b>: James Webster works as a Research Engineer for the Applied Research Laboratory at Penn State, developing new applications for recent innovations in software technology. He has experience with process optimization, software development, system integration and automation. James has experience applying distributed computer systems, including blockchain systems like Hyperledger to solve logistics challenges. James obtained his B.S. in Industrial Engineering from Cal Poly San Luis Obispo in 2006.
 <br />
 Michael Steward is currently a M.S student in Computer Science and Engineering department at Penn State University, advised by Dr. Trent Jaeger. Michael also received his Bachelor’s degree in Computer Engineering with a minor in Engineering Leadership Development from Penn State University. Michael has been a student researcher at Penn State’s Applied Research lab for four years and has on worked various enterprise and expeditionary system. His research interests broadly lie in distributed ledger technology, access control, and other system security topics.</details><br />
-
 <details>
   <summary>Paul Chafe (Zero31Skytech): Currency as a Technology</summary>
 
