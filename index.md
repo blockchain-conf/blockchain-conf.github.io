@@ -67,14 +67,14 @@ Previously, I received my BS degree from Hunan University in 2005, and my MS deg
 <br />
 <b>Speaker Bio</b>: James Webster works as a Research Engineer for the Applied Research Laboratory at Penn State, developing new applications for recent innovations in software technology. He has experience with process optimization, software development, system integration and automation. James has experience applying distributed computer systems, including blockchain systems like Hyperledger to solve logistics challenges. James obtained his B.S. in Industrial Engineering from Cal Poly San Luis Obispo in 2006.
 <br />
-Michael Steward is currently a M.S student in Computer Science and Engineering department at Penn State University, advised by Dr. Trent Jaeger. Michael also received his Bachelor’s degree in Computer Engineering with a minor in Engineering Leadership Development from Penn State University. Michael has been a student researcher at Penn State’s Applied Research lab for four years and has on worked various enterprise and expeditionary system. His research interests broadly lie in distributed ledger technology, access control, and other system security topics.</details><br />
+Michael Steward is currently a M.S student in Computer Science and Engineering department at Penn State University, advised by Dr. Trent Jaeger. Michael also received his Bachelor’s degree in Computer Engineering with a minor in Engineering Leadership Development from Penn State University. Michael has been a student researcher at Penn State’s Applied Research lab for four years and has on worked various enterprise and expeditionary system. His research interests broadly lie in distributed ledger technology, access control, and other system security topics.</details>
 <details>
   <summary>Paul Chafe (Zero31Skytech): Currency as a Technology</summary>
 
 <b>Abstract</b>: Money is a concept.  Currency is a technology implementing that concept.  This presentation will model currency as a technological system designed to increase transaction efficiency, with performance that results from the interaction of its physical and contextual properties.  The tradeoffs made between these dictate both the efficiency of the currency and its relative strengths and weaknesses.  Cryptocurrencies using Proof of Work and Proof of Stake are a specific case of commodity currency.  Their characteristics generate tradeoffs between scalability, security, and decentralization, which make it difficult to realize their potential.   In particular, economies of scale drive centralization, which undercuts their ability to provide the distributed trust required to function.
 <br />
 <b>Speaker Bio</b>: Paul is the Chief Technology Officer at Zero31Skytech, a leader in open, distributed computing.  He has 34 years of experience in technology development, working at every level from chip design to high level system integration. 
-</details>
+</details><br />
     
 14h40-15h10 Coffee break
 
