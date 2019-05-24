@@ -12,7 +12,7 @@ Furthermore, this workshop will also examine the state-of-art in blockchain rese
 
 The workshop aims to provide a balanced outlook and is designed for wide audience of industrial and academic participants. There will be a broad range of talks to cater to both beginners and advanced blockchain users. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
-## Preliminary program ##
+## Program ##
 
 8:00-8:30 Breakfast and registration
 
@@ -22,6 +22,14 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 <b>Abstract</b>: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
 <br />
 <b>Speaker Bio</b>: Kaiwen Zhang is an Assistant Professor in the Department of Software and IT Engineering at ÉTS Montréal (University of Québec), head of the [FUSÉE Laboratory](https://fuseelab.github.io/). Previously, he was an Alexander von Humboldt postdoctoral fellow in Computer Science at the TU Munich (2015-2017) and a member of the Middleware Systems Research Group. Dr. Zhang obtained his B.Sc. and M.Sc. at McGill University in Montréal and his Ph.D. at the University of Toronto. His research interests include blockchain technologies, publish/subscribe systems, massively multiplayer online games, and software-defined networking. Dr. Zhang's expertise lies at the intersection of distributed systems, networking, and data management. His research is published in premier distributed systems conferences such as IEEE ICDCS and ACM Middleware.</details><br />
+
+<details>
+  <summary>Yahya Shahsavari (ÉTS Montreal): Performance Modeling and Analysis of the Bitcoin Inventory Protocol</summary>
+
+<b>Abstract</b>: Blockchains are currently gaining attention as a newly emerging technology in both academia and industry, capable of impacting a variety of domains beyond cryptocurrencies. Performance modeling can be used to provide us with a deeper understanding of the behavior and dynamics within blockchain peer-to-peer networks. Blockchain system architects can leverage network models to properly tune their system and to reduce design costs significantly. In this paper, we focus on the original and well-established Bitcoin blockchain network. In particular, we propose a random graph model for performance modeling and analysis of the inventory-based protocol for block dissemination. This model addresses the impact of key blockchain parameters on the overall performance of Bitcoin. We derive some explicit and closed-form equations for block propagation delay and traffic overhead. We implement our model using the popular network simulator OMNet++. We validate the accuracy of our theoretical model and its implementation with our dataset mined from the Bitcoin network. Our results show the trade-off between the default number of connections per node, network bandwidth, and block size in order to compute the optimal block propagation delay over the network.
+<br />
+<b>Speaker Bio</b>: Yahya Shahsavari earned a BSc in Electronics Engineering from the University of Zanjan, and an MSc in Information and Communication Technology from Iran University of Science and Technology, Iran, in 2008 and 2016 respectively. Currently he is pursuing his PhD degree at the FUSÉE laboratory, a pioneer laboratory dedicated to blockchain systems at ÉTS.
+</details>
 
 10:00-10:30 Tea break
 
@@ -36,13 +44,6 @@ The workshop aims to provide a balanced outlook and is designed for wide audienc
 
 13h-14h40 Session 1
 
-<details>
-  <summary>Yahya Shahsavari (ÉTS Montreal): Performance Modeling and Analysis of the Bitcoin Inventory Protocol</summary>
-
-<b>Abstract</b>: Blockchains are currently gaining attention as a newly emerging technology in both academia and industry, capable of impacting a variety of domains beyond cryptocurrencies. Performance modeling can be used to provide us with a deeper understanding of the behavior and dynamics within blockchain peer-to-peer networks. Blockchain system architects can leverage network models to properly tune their system and to reduce design costs significantly. In this paper, we focus on the original and well-established Bitcoin blockchain network. In particular, we propose a random graph model for performance modeling and analysis of the inventory-based protocol for block dissemination. This model addresses the impact of key blockchain parameters on the overall performance of Bitcoin. We derive some explicit and closed-form equations for block propagation delay and traffic overhead. We implement our model using the popular network simulator OMNet++. We validate the accuracy of our theoretical model and its implementation with our dataset mined from the Bitcoin network. Our results show the trade-off between the default number of connections per node, network bandwidth, and block size in order to compute the optimal block propagation delay over the network.
-<br />
-<b>Speaker Bio</b>: Yahya Shahsavari earned a BSc in Electronics Engineering from the University of Zanjan, and an MSc in Information and Communication Technology from Iran University of Science and Technology, Iran, in 2008 and 2016 respectively. Currently he is pursuing his PhD degree at the FUSÉE laboratory, a pioneer laboratory dedicated to blockchain systems at ÉTS.
-</details>
 <details>
   <summary>Edward Zhang (UofT): Optimizing Consensus Algorithms for Permissioned Blockchains</summary>
 
