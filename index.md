@@ -26,8 +26,10 @@ Registration, breakfasts, lunches, breaks and receptions in TRSM Commons (Rooms 
 
 8:00-8:30 Breakfast and registration
 
+8:30-10:00 Tutorial 1
+
 <details>
-  <summary>8:30-10:00 Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 1: Consensus, Bitcoin</summary>
+  <summary>Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 1: Consensus, Bitcoin</summary>
     
 <b>Abstract</b>: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
 <br />
@@ -42,8 +44,10 @@ Registration, breakfasts, lunches, breaks and receptions in TRSM Commons (Rooms 
 
 10:00-10:30 Tea break
 
+10:30-12h00 Tutorial 2
+
 <details>
-  <summary>10:30-12h00 Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 2: Smart contracts, Ethereum, Hyperledger</summary>
+  <summary>Kaiwen Zhang (ÉTS Montreal): Blockchain Tutorial Part 2: Smart contracts, Ethereum, Hyperledger</summary>
  
 <b>Abstract</b>: Popularly known for powering cryptocurrencies such as Bitcoin and Ethereum, blockchains is seen as a disruptive technology capable of impacting a wide variety of domains, ranging from finance to governance, by offering superior security, reliability, and transparency in a decentralized manner. In this tutorial presentation, we first study the original Bitcoin design, as well as Ethereum and Hyperledger, and reflect on their design from an academic perspective. We provide an overview of potential applications and associated research challenges, as well as a survey of ongoing research projects. We mention opportunities blockchain creates for event-based systems. Finally, we conclude with a walkthrough showing the process of developing a decentralized application (DApp), using a popular Smart Contract language (Solidity) for the blockchain platform of Ethereum.
 <br />
