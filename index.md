@@ -19,6 +19,7 @@ Talks will take place in Room TRS 1-099 on the 7th floor of 55 Dundas Street Wes
 Registration, breakfasts, lunches, breaks and receptions in TRSM Commons (Rooms TRS 1-148 & 1-150) also on the 7th floor of 55 Dundas Street West.
  
 [Map of the 7th floor](https://www.ryerson.ca/content/dam/tedrogersschool/documents/TRSM_level1_7thfloor.pdf)
+
 [Campus map](https://www.ryerson.ca/maps/)
 
 ## Program ##
