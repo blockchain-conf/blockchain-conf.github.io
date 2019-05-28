@@ -12,6 +12,15 @@ Furthermore, this workshop will also examine the state-of-art in blockchain rese
 
 The workshop aims to provide a balanced outlook and is designed for wide audience of industrial and academic participants. There will be a broad range of talks to cater to both beginners and advanced blockchain users. Furthermore, the talks will range from applications and experiences using DLTs to theoretical, technical, and system-oriented topics.
 
+## Venue Location ##
+
+Talks will take place in Room TRS 1-099 on the 7th floor of 55 Dundas Street West.
+
+Registration, breakfasts, lunches, breaks and receptions in TRSM Commons (Rooms TRS 1-148 & 1-150) also on the 7th floor of 55 Dundas Street West.
+ 
+[Map of the 7th floor](https://www.ryerson.ca/content/dam/tedrogersschool/documents/TRSM_level1_7thfloor.pdf)
+[Campus map](https://www.ryerson.ca/maps/)
+
 ## Program ##
 
 8:00-8:30 Breakfast and registration
