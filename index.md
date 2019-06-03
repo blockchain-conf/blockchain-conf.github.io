@@ -43,6 +43,7 @@ Registration, breakfasts, lunches, breaks and receptions in TRSM Commons (Rooms 
 </details><br />
 
 Tutorial slides: [Part 1](files/bc-tutorial-mw-sacmat.pdf), [Part 2](files/blockchain-hands-on-Tutorial.pdf)
+
 10:00-10:30 Tea break
 
 10:30-12h00 Tutorial 2
