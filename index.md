@@ -110,51 +110,6 @@ Michael Steward is currently a M.S student in Computer Science and Engineering d
 Victor Ermolaev obtained a PhD degree in Mathematics and Physics from University of Groningen. In 2011 he joined Nedap Security Management in capacity of a researcher in the field of access control, his joint theoretical paper was presented at SACMAT 2014. Since 2018 he occupies an analytical position at Bitfury Exonum focusing on applied blockchain research.
 </details>
 <details>
-  <summary>Layth Sliman (EFREI): Towards Blockchain-Based Collaborative Enterprise</summary>
-  
-<b>Abstract</b>: Nowadays, we witness the emergence of new collaborative business models such as virtual
-market places, sharing economy, Remote Fabrication and distributed supply chain. This
-has been geared by the rise of new IT technologies, namely Internet of Things technologies
-and cloud computing.
-Despite the advantages of these scenarios, managing security and trust are major obstacles
-that should be studied to spread the collaboration intensive business.
-One of the most promising technology that can cope with these issues is distributed ledger
-technology. Distributed ledger technology e.g. Blockchain is a technology that provides a
-decentralized “database” on a network that is scalable, secure, tamper-proof, and accessible
-by each peer on the network. However, distributed ledger technologies are basically
-designed for financial application. Consequently, these technologies are, so far, not adapted
-to the development and the execution of collaborative business process necessary to meet
-business needs.
-In this talk, I will try to answer the questions: how to enable distributed ledger based
-infrastructures so that they can meet collaborative business needs? What are the
-fundamental obstacles in the current distributed ledger technologies state that hinder the
-support of the business collaboration? At what levels in distributed ledger architecture the
-changes are needed?
-<br />
-<b>Speaker Bio</b>: Completed his Diploma in Computer Engineering. Then he obtained his masters in Computer
-Science (Information systems) in INSA Lyon- France and then his Phd from INSA Lyon, in
-collaboration with the University of the Ryukyus, Japan. In 2003, he underwent training in
-Development and Implementation program in Computer Software Applications in CMC-
-TATA, New Delhi, India. In the same year, he also underwent another training in Information
-and Communication Technologies in MEIO University and Okinawa International Center,
-Japan. In 2008, 2009 2010, 2012, 2013 and 2014 he did many research stays on Digital
-Rights Management and image processing in the University of the Ryukyus and Ritsumeikan
-University - Japan. During the period 2000-2010, he worked as lecturer and assistant
-professor, did his research and taught Computer Engineering and Information Systems in
-many universities including INSA, Lyon, the University of the Ryukyus in Japan, Beijing
-University of Technology, South China University of Technology China, and the Insitute of
-Visual Informatics in Malaysia. Since September 2010 he is associate professor in EFREI, a
-French engineering school located in Paris. His is a research fellow in many international
-institutes. His main topic is Collaborative Information Systems. This involves many topics
-including Web 2.0, IS Architecture, IoT Security, Cloud Computing, SaaS, Semantic Web
-and semantic SOA.
-He delivered many talks and seminars on the subject of Blockchain in France, Italy, Japan,
-and Spain. He has chaired and or organized more than 10 international conferences. This
-include 27 th IEEE WETICE, 25 th IEEE WETICE, SOCPAR2017 (LNCS), IAS2017 (LNCS), 13 th
-IAS (LNCS), IBICA2017(LNCS), 10 th IFIP NTMS2019, 9 th NTMS18, 6 th NTMS15, 14 th
-ISDA(IEEE), and 10th IAS(IEEE).
-</details>
-<details>
   <summary>Wes Fulford (Bitfarms): Overview of the mining industry in North America</summary>
   
 <b>Abstract</b>: Bitfarms has led a campaign in Quebec, Canada to engage with government, decision makers and the general public regarding blockchain technology education and how it can foster innovation and economic development within the province. Bitfarms realized early on that the emerging blockchain and cryptocurrency sector requires social acceptability in order for the Company to compete globally and to garner access to clean hydroelectricity at a competitive price.
