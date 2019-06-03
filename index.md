@@ -42,6 +42,7 @@ Registration, breakfasts, lunches, breaks and receptions in TRSM Commons (Rooms 
 <b>Speaker Bio</b>: Yahya Shahsavari earned a BSc in Electronics Engineering from the University of Zanjan, and an MSc in Information and Communication Technology from Iran University of Science and Technology, Iran, in 2008 and 2016 respectively. Currently he is pursuing his PhD degree at the<br /> FUSÉE laboratory, a pioneer laboratory dedicated to blockchain systems at ÉTS.
 </details><br />
 
+Tutorial slides: [Part 1](files/bc-tutorial-mw-sacmat.pdf), [Part 2](files/blockchain-hands-on-Tutorial.pdf)
 10:00-10:30 Tea break
 
 10:30-12h00 Tutorial 2
